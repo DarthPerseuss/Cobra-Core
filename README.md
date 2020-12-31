@@ -1,3 +1,3 @@
 # Cobrapy-Core
 
-The program reads the SBML file and finds the core metabolic network
+The cobrapy_tutor file reads the SBML file (xml format) and finds the core metabolic network of S. pombe. 
